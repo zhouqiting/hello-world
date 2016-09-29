@@ -1,0 +1,5 @@
+[iso.repo]
+name=iso.repo
+baseurl=file:///iso
+gpgcheck=0
+enabled=1
